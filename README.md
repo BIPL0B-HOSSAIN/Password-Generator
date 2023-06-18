@@ -1,4 +1,4 @@
-# Password-Generator
+o# Password-Generator
 <h2>Password Generator</h2>
 <h5>Assalamu alaykum</h5>
 
@@ -6,4 +6,6 @@
 
 #Command
 
-""""""
+"""https://github.com/BIPL0B-HOSSAIN/Password-Generator.git"""
+'''cd Password-Generator'''
+'''python password_generator.py'''
